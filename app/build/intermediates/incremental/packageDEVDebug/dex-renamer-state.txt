@@ -1,0 +1,7 @@
+#Thu May 11 11:50:29 IST 2017
+base.0=/home/rishucuber/Desktop/Assignment6/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10000/instant-run-bootstrap_cc447701ce58ebafc158be4a40447fa5ad4cc289
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/rishucuber/Desktop/Assignment6/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10000/instant-run_eee3ab7e42a11168bdb4c7504fb07fed10c58183/classes.dex
+base.1=/home/rishucuber/Desktop/Assignment6/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10000/instant-run_eee3ab7e42a11168bdb4c7504fb07fed10c58183
+file.0=/home/rishucuber/Desktop/Assignment6/app/build/intermediates/transforms/dex/DEV/debug/folders/1000/10000/instant-run-bootstrap_cc447701ce58ebafc158be4a40447fa5ad4cc289/classes.dex

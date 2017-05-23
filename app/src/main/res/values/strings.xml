@@ -1,0 +1,95 @@
+<resources>
+    <string name="msg_wifi_enabled">Wifi enabled</string>
+    <string name="msg_mobile_data_enabled">Mobile data enabled</string>
+    <string name="msg_not_connected_to_internet">Not connected to Internet</string>
+
+    <string name="log_fcm_message_id">"FCM Message Id: "</string>
+    <string name="log_fcm_notification_message">"FCM Notification Message: "</string>
+    <string name="log_fcm_data">"FCM Data Message: "</string>
+    <string name="log_fcm_data_message">"FCM Data Message:(TA)G "</string>
+    <string name="text_ok">OK</string>
+    <string name="text_exit">Exit</string>
+    <string name="text_retry">Retry</string>
+    <string name="session_expired">Session expired.</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Image Chooser -->
+    <string name="text_cancel">Cancel</string>
+    <string name="text_camera">Camera</string>
+    <string name="text_setting">Settings</string>
+    <string name="text_gallery">Gallery</string>
+    <string name="text_multiple">Multiple</string>
+    <string name="text_choose_image">Choose Image</string>
+    <string name="permission_camera_storage_msg">Permissions are required for camera &amp; storage.</string>
+    <string name="permission_camera_storage_denied_msg">Permissions denied. Please grant permission for camera &amp; storage in setting.</string>
+
+    <!--Error-->
+    <string name="error_email_field_empty">Please enter email address.</string>
+    <string name="error_invalid_email">Please enter valid email address.</string>
+    <string name="error_password_field_empty">Please enter password.</string>
+    <string name="error_confirm_password_field_empty">Please enter confirm password.</string>
+    <string name="error_password_must_be_greater_than_5_character">Password must be greater than 5 character.</string>
+    <string name="error_phone_number_field_empty">Please enter phone number.</string>
+    <string name="error_invalid_phone_number">Please enter valid phone number.</string>
+    <string name="error_first_name_field_empty">Please enter first name</string>
+    <string name="error_name_field_empty">Please enter name</string>
+    <string name="error_last_name_field_empty">Please enter last name</string>
+    <string name="error_name_two_character_long">Name must contain at least two characters</string>
+    <string name="error_first_name_two_character_long">First name must contain at least two characters</string>
+    <string name="error_last_name_two_character_long">Last name must contain at least two characters</string>
+    <string name="error_name_special_number_character">Name cannot contain number &amp; special characters</string>
+    <string name="error_first_name_special_number_character">First name cannot contain number &amp; special characters</string>
+    <string name="error_last_name_special_number_character">Last name cannot contain number &amp; special characters</string>
+    <string name="error_password_mismatch">Password Mismatch!</string>
+    <string name="error_no_files_added">No files added</string>
+    <string name="error_device_not_supported">This device is not supported.</string>
+    <string name="error_internet_not_connected">Not connected to internet. Please check your internet connection or try again later.</string>
+    <string name="error_fb_login_failed">Facebook Login failed!!</string>
+    <string name="error_not_a_valid_image_file">File is not a valid image.</string>
+
+    <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
+    <string name="title_settings_dialog">Permissions Required</string>
+    <!--App Strings-->
+    <string name="hint_et_f_name">First Name</string>
+    <string name="hint_et_l_name">Last Name</string>
+    <string name="hint_et_phone">Phone Number</string>
+    <string name="hint_et_email">Email</string>
+    <string name="hint_et_email_phone">Email/Phone Number</string>
+    <string name="hint_et_dob">Date of Birth</string>
+    <string name="hint_et_password">Password</string>
+    <string name="hint_et_c_password">Confirm Password</string>
+    <string name="country_code">+91</string>
+    <string name="text_sign_up_tv_gender">Select Gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="t_c_text">I accept Terms of Service and Privacy Policy</string>
+    <string name="tv_remember_me">Remember Me</string>
+    <string name="tv_forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_facebook">Sign In With Facebook</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_date_error">Please enter valid date</string>
+
+    <!--user response activity-->
+    <string name="text_tv_access_token">Access Token :</string>
+    <string name="text_tv_first_name">First Name :</string>
+    <string name="text_tv_last_name">Last name:</string>
+    <string name="text_tv_id">ID:</string>
+    <string name="text_tv_created_at">Created At:</string>
+    <string name="text_tv_updated_at">Updated At:</string>
+    <string name="text_tv_dob">DOB:</string>
+    <string name="text_tv_country_code">Country Code:</string>
+    <string name="text_tv_phone">Phone:</string>
+    <string name="text_tv_user_image">User Image:</string>
+    <string name="text_tv_gender">Gender :</string>
+    <string name="text_tv_about">About:</string>
+    <string name="text_tv_drinking">Drinking:</string>
+    <string name="text_tv_language">Language:</string>
+
+
+
+
+</resources>

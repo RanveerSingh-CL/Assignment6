@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rishucuber/Desktop/Assignment6/app/src/main/shaders"/></dataSet><dataSet config="DEV"><source path="/home/rishucuber/Desktop/Assignment6/app/src/DEV/shaders"/></dataSet><dataSet config="debug"><source path="/home/rishucuber/Desktop/Assignment6/app/src/debug/shaders"/></dataSet><dataSet config="DEVDebug"><source path="/home/rishucuber/Desktop/Assignment6/app/src/DEVDebug/shaders"/></dataSet></merger>

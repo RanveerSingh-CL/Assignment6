@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v21/notification_action.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

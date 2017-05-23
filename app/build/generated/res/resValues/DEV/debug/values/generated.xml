@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="app_name" translatable="false">"Base Project"</string>
+    <string name="facebook_app_id" translatable="false">[YOUR_PROJECT_FB_ID]</string>
+
+</resources>

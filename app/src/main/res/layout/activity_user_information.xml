@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.skeleton.activity.UserInformationActivity">
+
+    <TextView
+        android:id="@+id/tv_fname"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_first_name" />
+
+    <TextView
+        android:id="@+id/tv_lname"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_last_name" />
+
+    <TextView
+        android:id="@+id/tv_access"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_access_token" />
+
+    <TextView
+        android:id="@+id/tv_id"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_id" />
+
+    <TextView
+        android:id="@+id/tv_dob"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_dob" />
+
+    <TextView
+        android:id="@+id/tv_created"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_created_at" />
+
+    <TextView
+        android:id="@+id/tv_updated"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_updated_at" />
+
+
+    <TextView
+        android:text="@string/text_tv_phone"
+        android:id="@+id/tv_phone"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="@string/text_tv_gender"
+        android:id="@+id/tv_gender"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="@string/text_tv_about"
+        android:id="@+id/tv_about"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_language"
+        style="@style/response_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/text_tv_language" />
+
+</LinearLayout>

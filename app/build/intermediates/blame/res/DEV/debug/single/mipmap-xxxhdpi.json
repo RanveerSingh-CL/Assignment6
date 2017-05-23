@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/mipmap-xxxhdpi/star_on.png",
+        "source": "/home/rishucuber/Desktop/Assignment6/app/src/main/res/mipmap-xxxhdpi/star_on.png"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/mipmap-xxxhdpi/star_off.png",
+        "source": "/home/rishucuber/Desktop/Assignment6/app/src/main/res/mipmap-xxxhdpi/star_off.png"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/rishucuber/Desktop/Assignment6/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

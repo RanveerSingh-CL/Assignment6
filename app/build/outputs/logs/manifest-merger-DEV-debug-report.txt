@@ -1,0 +1,437 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:8:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:9:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:15:5-53:19
+MERGED from [com.android.support:design:25.3.1] /home/rishucuber/.android/build-cache/da927c26a8fc5e46094339f9d05237c2fe44d7af/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/rishucuber/.android/build-cache/0b3a8d7e82c60042d272f92b35f9245b76d0a330/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/rishucuber/.android/build-cache/30481c67674600c8907b0934dde9674eb9b4db2e/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rishucuber/.android/build-cache/199fcb8357bde435ef4e4df2fbed859a3719e880/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/rishucuber/.android/build-cache/3188358c331928be48a6406b0dcefe828d72a4f2/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/rishucuber/.android/build-cache/f152c1b616c52711d0561c9dc468cca5608bc649/output/AndroidManifest.xml:18:5-20:19
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/rishucuber/.android/build-cache/6ce4108762be41cdcc4affa773313b2c9b3fff83/output/AndroidManifest.xml:11:5-20
+MERGED from [io.paperdb:paperdb:2.0] /home/rishucuber/.android/build-cache/a1903a1970dbf258b711692d3a43f5cb5cbf6a1a/output/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/rishucuber/.android/build-cache/b2219a615d0064fcfa84e58933cf7d4879076923/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/rishucuber/.android/build-cache/83c31770316277953d373b5d6b84855d253a10f7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/rishucuber/.android/build-cache/e60858df0816f207919225de210e42e6615ec47a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/rishucuber/.android/build-cache/915af3a5877519d1d8802e2ea43079d6ba5a7e9a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/rishucuber/.android/build-cache/dd2c6c5f3cbad0e67211602a219c462eb6c93fe5/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/rishucuber/.android/build-cache/06899c53f30c8984bfa4d4da9f090026e3cfbd96/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/rishucuber/.android/build-cache/908e08a8368092d4b782151c0f25b659f0dc4a66/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/rishucuber/.android/build-cache/2705a262621410c9ad8f5a88a95a6a4118587335/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/rishucuber/.android/build-cache/3bb226a68cdfdc3f94cf4820a93eb14270746196/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/rishucuber/.android/build-cache/00cd024a027db16f9c14656b4040d31a1d942f37/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/rishucuber/.android/build-cache/3f6922e882138ea4b5ad18a7986196a708dcc26b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/rishucuber/.android/build-cache/2e3d5392f0d7cf98149d86f411ca8a0296c7abe2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/rishucuber/.android/build-cache/9b1899d1c079617586d8ebe543eeedd1e8ab9157/output/AndroidManifest.xml:29:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:28:5-57:19
+	android:label
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:19:9-41
+	android:supportsRtl
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:20:9-35
+	android:allowBackup
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:16:9-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:22:9-24:55
+	android:value
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:24:13-52
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:23:13-58
+receiver#com.skeleton.locationLib.locationservice.BootReceiver
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:26:9-29:49
+	android:enabled
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:27:13-69
+activity#com.skeleton.activity.SplashActivity
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:31:9-70
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:31:19-58
+activity#com.skeleton.activity.TestClassLocation
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:32:9-64
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:32:19-61
+activity#com.facebook.FacebookActivity
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:33:9-36:48
+MERGED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:35:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:34:13-57
+service#com.skeleton.fcm.MyFirebaseMessagingService
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:38:9-75
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:38:18-64
+service#com.skeleton.fcm.MyFirebaseInstanceIdService
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:39:9-76
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:39:18-65
+receiver#com.skeleton.receiver.NetworkChangeReceiver
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:41:9-43:62
+	android:label
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:43:13-50
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:42:13-59
+activity#com.skeleton.activity.MainActivity
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:45:9-51:20
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:45:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:49:27-74
+activity#com.skeleton.activity.UserInformationActivity
+ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:52:9-79
+	android:name
+		ADDED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml:52:19-67
+uses-sdk
+INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/rishucuber/.android/build-cache/da927c26a8fc5e46094339f9d05237c2fe44d7af/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /home/rishucuber/.android/build-cache/0b3a8d7e82c60042d272f92b35f9245b76d0a330/output/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/rishucuber/.android/build-cache/30481c67674600c8907b0934dde9674eb9b4db2e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/rishucuber/.android/build-cache/e004bf215255975548216045ed03db9b1149cb5a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rishucuber/.android/build-cache/199fcb8357bde435ef4e4df2fbed859a3719e880/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.1] /home/rishucuber/.android/build-cache/3188358c331928be48a6406b0dcefe828d72a4f2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/rishucuber/.android/build-cache/f152c1b616c52711d0561c9dc468cca5608bc649/output/AndroidManifest.xml:17:5-43
+MERGED from [uk.co.chrisjenx:calligraphy:2.2.0] /home/rishucuber/.android/build-cache/6ce4108762be41cdcc4affa773313b2c9b3fff83/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.paperdb:paperdb:2.0] /home/rishucuber/.android/build-cache/a1903a1970dbf258b711692d3a43f5cb5cbf6a1a/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/rishucuber/.android/build-cache/b2219a615d0064fcfa84e58933cf7d4879076923/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/rishucuber/.android/build-cache/83c31770316277953d373b5d6b84855d253a10f7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.3.1] /home/rishucuber/.android/build-cache/0332dbc99fe36aa016ca5afa8449dda534286325/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/rishucuber/.android/build-cache/e60858df0816f207919225de210e42e6615ec47a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/rishucuber/.android/build-cache/915af3a5877519d1d8802e2ea43079d6ba5a7e9a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/rishucuber/.android/build-cache/dd2c6c5f3cbad0e67211602a219c462eb6c93fe5/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/rishucuber/.android/build-cache/06899c53f30c8984bfa4d4da9f090026e3cfbd96/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/rishucuber/.android/build-cache/908e08a8368092d4b782151c0f25b659f0dc4a66/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/rishucuber/.android/build-cache/2705a262621410c9ad8f5a88a95a6a4118587335/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/rishucuber/.android/build-cache/3bb226a68cdfdc3f94cf4820a93eb14270746196/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/rishucuber/.android/build-cache/00cd024a027db16f9c14656b4040d31a1d942f37/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/rishucuber/.android/build-cache/3f6922e882138ea4b5ad18a7986196a708dcc26b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/rishucuber/.android/build-cache/2e3d5392f0d7cf98149d86f411ca8a0296c7abe2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/rishucuber/.android/build-cache/9b1899d1c079617586d8ebe543eeedd1e8ab9157/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/rishucuber/.android/build-cache/da927c26a8fc5e46094339f9d05237c2fe44d7af/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+		INJECTED from /home/rishucuber/Desktop/Assignment6/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/rishucuber/.android/build-cache/da927c26a8fc5e46094339f9d05237c2fe44d7af/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/rishucuber/.android/build-cache/0b3a8d7e82c60042d272f92b35f9245b76d0a330/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/rishucuber/.android/build-cache/e004bf215255975548216045ed03db9b1149cb5a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/rishucuber/.android/build-cache/b2219a615d0064fcfa84e58933cf7d4879076923/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/rishucuber/.android/build-cache/83c31770316277953d373b5d6b84855d253a10f7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/rishucuber/.android/build-cache/e60858df0816f207919225de210e42e6615ec47a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/rishucuber/.android/build-cache/915af3a5877519d1d8802e2ea43079d6ba5a7e9a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/rishucuber/.android/build-cache/2705a262621410c9ad8f5a88a95a6a4118587335/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/rishucuber/.android/build-cache/3bb226a68cdfdc3f94cf4820a93eb14270746196/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/rishucuber/.android/build-cache/00cd024a027db16f9c14656b4040d31a1d942f37/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/rishucuber/.android/build-cache/3f6922e882138ea4b5ad18a7986196a708dcc26b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/rishucuber/.android/build-cache/2e3d5392f0d7cf98149d86f411ca8a0296c7abe2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/rishucuber/.android/build-cache/9b1899d1c079617586d8ebe543eeedd1e8ab9157/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/rishucuber/.android/build-cache/da927c26a8fc5e46094339f9d05237c2fe44d7af/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/rishucuber/.android/build-cache/da927c26a8fc5e46094339f9d05237c2fe44d7af/output/AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/rishucuber/.android/build-cache/407247cc0929cf73ddf50d70c3ecbd3133511fcd/output/AndroidManifest.xml:25:25-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] /home/rishucuber/.android/build-cache/30ed5f03b4542fbaf6da052d85ea00f80670ed08/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/rishucuber/.android/build-cache/f152c1b616c52711d0561c9dc468cca5608bc649/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/rishucuber/.android/build-cache/f152c1b616c52711d0561c9dc468cca5608bc649/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/rishucuber/.android/build-cache/f152c1b616c52711d0561c9dc468cca5608bc649/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/rishucuber/.android/build-cache/f152c1b616c52711d0561c9dc468cca5608bc649/output/AndroidManifest.xml:19:19-85
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.21.1] /home/rishucuber/.android/build-cache/789eaa3db89f8a98910c3eeb91520314052c61b7/output/AndroidManifest.xml:45:13-70
+provider#com.kbeanie.multipicker.utils.AMPFileProvider
+ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:14:13-76
+	android:grantUriPermissions
+		ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:13:13-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:17:13-19:49
+	android:resource
+		ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:19:17-46
+	android:name
+		ADDED from [com.kbeanie:multipicker:1.1.31] /home/rishucuber/.android/build-cache/6b5ba93abd4d89dbad93053689b4f788653ae918/output/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/rishucuber/.android/build-cache/431cad98590f74d810afcafdf4b4522c86ee02b6/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/rishucuber/.android/build-cache/08af44eb96e0718451678ff1d643351a0847246d/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/rishucuber/.android/build-cache/441ea4e3e42bc5ef2ea3795367c0124e5afc94fa/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/rishucuber/.android/build-cache/aa9cac2e3de70559860851cc13e666312710b758/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/rishucuber/.android/build-cache/908e08a8368092d4b782151c0f25b659f0dc4a66/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/rishucuber/.android/build-cache/908e08a8368092d4b782151c0f25b659f0dc4a66/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] /home/rishucuber/.android/build-cache/908e08a8368092d4b782151c0f25b659f0dc4a66/output/AndroidManifest.xml:20:20-65
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] /home/rishucuber/.android/build-cache/9aed36f95fbab32641d0da24b1d968079b3aafc9/output/AndroidManifest.xml:51:13-93

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rishucuber/Desktop/Assignment6/app/src/main/jniLibs"/></dataSet><dataSet config="DEV"><source path="/home/rishucuber/Desktop/Assignment6/app/src/DEV/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/rishucuber/Desktop/Assignment6/app/src/debug/jniLibs"/></dataSet><dataSet config="DEVDebug"><source path="/home/rishucuber/Desktop/Assignment6/app/src/DEVDebug/jniLibs"/></dataSet></merger>

@@ -1,0 +1,192 @@
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/spacing_large">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/profile_image"
+            android:layout_width="@dimen/spacing_huge"
+            android:layout_height="@dimen/spacing_huge"
+            android:src="@drawable/com_facebook_profile_picture_blank_portrait"
+            app:civ_border_color="#FF000000"
+            app:civ_border_width="2dp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.skeleton.util.customview.MaterialEditText
+            android:id="@+id/et_f_name"
+            style="@style/et_signup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_et_f_name"
+            app:met_underlineColor="@color/black"
+            android:layout_weight="0.5"/>
+        <com.skeleton.util.customview.MaterialEditText
+            android:id="@+id/et_l_name"
+            style="@style/et_signup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_et_l_name"
+            app:met_underlineColor="@color/black"
+            android:layout_weight="0.5"/>
+    </LinearLayout>
+
+
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.skeleton.util.customview.MaterialEditText
+        android:id="@+id/et_phone"
+        style="@style/et_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_et_phone"
+        app:met_underlineColor="@color/black"
+        android:paddingLeft="@dimen/spacing_large"
+       />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/country_code"
+            android:textSize="@dimen/font_xlarge"
+            android:textColor="@color/black"
+            />
+        <View
+            android:layout_width="3dp"
+            android:layout_height="match_parent"
+            android:background="@color/gray_light"
+            android:layout_marginLeft="@dimen/spacing_small"/>
+
+    </LinearLayout>
+</FrameLayout>
+
+    <com.skeleton.util.customview.MaterialEditText
+        android:id="@+id/et_email"
+        style="@style/et_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_et_email"
+        app:met_underlineColor="@color/black" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="@dimen/spacing_small">
+        <TextView
+            android:layout_width="@dimen/spacing_xhuge"
+            android:layout_height="wrap_content"
+            android:text="@string/text_sign_up_tv_gender"
+            android:textStyle="bold"
+            android:textSize="@dimen/font_xlarge"
+            android:textColor="@color/black"/>
+        <RadioGroup
+            android:id="@+id/sex_group"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="@dimen/spacing_large"
+            >
+            <RadioButton
+                android:id="@+id/radio_male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/gender_male"
+                android:textSize="@dimen/font_xlarge"
+                />
+            <RadioButton
+                android:id="@+id/radio_female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/gender_female"
+                android:textSize="@dimen/font_xlarge"/>
+        </RadioGroup>
+
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/black"/>
+
+    <Spinner
+        android:id="@+id/sp_orientation"
+        style="@style/et_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <com.skeleton.util.customview.MaterialEditText
+        android:id="@+id/et_dob"
+        style="@style/et_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_et_dob"
+        app:met_underlineColor="@color/black" />
+
+    <com.skeleton.util.customview.MaterialEditText
+        android:id="@+id/et_password"
+        style="@style/et_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_et_password"
+        android:inputType="textPassword"
+        app:met_underlineColor="@color/black" />
+
+    <com.skeleton.util.customview.MaterialEditText
+        android:id="@+id/et_c_password"
+        style="@style/et_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_et_c_password"
+        android:inputType="textPassword"
+        app:met_underlineColor="@color/black" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <CheckBox
+        android:id="@+id/cb_terms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/t_c_text"
+            android:layout_weight="1"
+            android:textSize="@dimen/font_xlarge"/>
+
+    </LinearLayout>
+        <Button
+            android:id="@+id/bt_sign_up"
+            android:layout_width="match_parent"
+            android:background="@drawable/pill_background_sign_in"
+            android:layout_marginTop="@dimen/spacing_large"
+            android:text="@string/sign_up"
+            android:textAllCaps="false"
+            style="@style/pill"/>
+
+    </LinearLayout>
+</ScrollView>

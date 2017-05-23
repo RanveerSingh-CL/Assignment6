@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.9">
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/MyApplication.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/activity/BaseActivity.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/activity/LocationBaseActivity.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/activity/MainActivity.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/activity/SplashActivity.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/activity/TestClassLocation.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/activity/UserInformationActivity.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/adapter/PagerAdapter.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/database/CommonData.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fcm/FCMTokenInterface.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fcm/MyFirebaseInstanceIdService.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fcm/MyFirebaseMessagingService.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fragment/BaseFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fragment/LocationBaseFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fragment/LoginFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fragment/SignupFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/fragment/TestLocationFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/db/DatabaseHandler.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/location/LocationConfig.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/location/LocationFetcher.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationlogger/LocationLoggerService.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationroute/Route.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationroute/RoutePoint.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationroute/RouteUtil.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationservice/BackgroundLocationService.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationservice/BootReceiver.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationservice/LocationTracking.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/locationLib/locationservice/RouteUpdateListener.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/model/CurrentLocation.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/model/Data.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/model/MyCommonResponse.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/model/ProfilePicURL.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/model/UserDetails.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/model/UserImage.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/receiver/NetworkChangeReceiver.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/APIError.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/ApiInterface.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/CommonParams.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/CommonResponse.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/ErrorUtils.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/MultipartParams.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/ResponseResolver.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/RestClient.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/retrofit/RetrofitUtils.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/DateTimeUtil.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/EditTextUtil.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/Foreground.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/IntentUtils.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/KeyboardUtil.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/Log.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/NetworkUtil.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/StringUtil.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/Util.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/ValidateEditText.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/customview/CustomRatingBar.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/customview/CustomViewPager.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/customview/MaterialEditText.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/customview/ProgressDialog.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/customview/ProgressWheel.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/dialog/CustomAlertDialog.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/dialog/DatePickerFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/dialog/TimePickerFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/facebookutil/FacebookManager.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/facebookutil/FacebookResponseHandler.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/facebookutil/SocialUserDetails.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/googlemap/MySupportMapFragment.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/googlemap/TouchableWrapper.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/imagepicker/ImageChooser.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/imagepicker/ImageCompressor.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/permissionhelper/AfterPermissionGranted.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/permissionhelper/MPermissionHelper.java">
+</file>
+<file name="/home/rishucuber/Desktop/Assignment6/app/src/main/java/com/skeleton/util/permissionhelper/PermissionCallbacks.java">
+</file>
+</checkstyle>

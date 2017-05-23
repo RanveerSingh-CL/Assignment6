@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/rishucuber/Desktop/Assignment6/app/build/intermediates/res/merged/DEV/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/rishucuber/.android/build-cache/80673aca1384850902d4b638f88ee2857d046197/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]
